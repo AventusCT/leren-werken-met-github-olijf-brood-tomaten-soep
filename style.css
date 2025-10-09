@@ -20,11 +20,14 @@ table {
     border-collapse: collapse;
 }
 
-table, th, td {
-    border: 5px solid #000000;
+table,
+th,
+td {
+    border: 5px solid #ba860dae;
 }
 
-th, td {
+th,
+td {
     padding: 10px;
     text-align: left;
 }
@@ -58,6 +61,6 @@ li a:hover {
     background-color: darkblue;
 }
 
-#hobby{
-    color:blanchedalmond
+#hobby {
+    color: blanchedalmond
 }
